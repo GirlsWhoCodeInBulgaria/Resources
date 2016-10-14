@@ -1,8 +1,3 @@
-# Resources
-
-Learn what is git and github: https://www.youtube.com/watch?v=xKVlZ3wFVKA
-
-
 # Learning Python
 
 Step by step on learning Python programming. Easiest way in the world
