@@ -3,8 +3,6 @@
 Learn what is git and github: https://www.youtube.com/watch?v=xKVlZ3wFVKA
 
 
-from: http://www.galvanize.com/blog/learn-to-code-resources-for-the-beginner/#.WADms5N9644
-
 # Learning Python
 
 Step by step on learning Python programming. Easiest way in the world
