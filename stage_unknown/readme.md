@@ -1,8 +1,8 @@
 # Introduction to Front End Development
 
 ### HTML 5
-Introduction To HTML 5
-Your First Webpage
+* Introduction To HTML 5
+* Your First Webpage
 Header Tags
 Paragraph Tags
 Formatting Text
