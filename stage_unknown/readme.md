@@ -73,6 +73,8 @@
 * Where my data is kept
 * How internet works
 * What is a database
+* Stackoverflow
+* Github
 * Security options & logins
 * What is an SSL Certificate
 * PGP Encryption (too complicated ?)
